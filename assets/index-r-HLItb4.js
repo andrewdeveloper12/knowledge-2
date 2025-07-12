@@ -117,7 +117,8 @@ Error generating stack: `+o.message+`
 9. External Links
 10. C.R.M - Outlook - Cisco`,type:"reference",searchTerms:"قاعدة المعرفة KB Home Contacts Installation Process Service Level CRM Outlook Cisco"},{id:"3",category:"day1-device-categories",title:"تقسيم الأجهزة",content:`1. الأجهزة المنزلية (HA): ثلاجة - غسالة - ...
 2. الأجهزة الشخصية (S.H.A): مروحة - موبايل - ...
-3. الصوتيات والمرئيات (A.V): الشاشات - المسرح المنزلي - ...`,type:"reference",searchTerms:"تقسيم الأجهزة HA SHA AV ثلاجة غسالة مروحة موبايل شاشات مسرح منزلي"},{id:"4",category:"day1-crm-system",title:"برنامج C.R.M",content:`هو برنامج خاص بتسجيل بيانات العملاء من:
+3. الصوتيات والمرئيات (A.V): الشاشات - المسرح المنزلي - ...
+4. تكييف (AC)`,type:"reference",searchTerms:"تقسيم الأجهزة HA SHA AV ثلاجة غسالة مروحة موبايل شاشات مسرح منزلي"},{id:"4",category:"day1-crm-system",title:"برنامج C.R.M",content:`هو برنامج خاص بتسجيل بيانات العملاء من:
 1. طلب صيانة
 2. تركيب
 3. استفسارات
