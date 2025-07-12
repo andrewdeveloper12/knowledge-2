@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-      "publish": "git add . && git commit -m 'Auto update' && git push origin main && npm run deploy"
+"publish": "git add . && git commit -m \"Auto update\" && git push origin main && npm run deploy"
 
   },
   "dependencies": {
