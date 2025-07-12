@@ -10,7 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+      "publish": "git add . && git commit -m 'Auto update' && git push origin main && npm run deploy"
+
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
